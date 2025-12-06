@@ -21,14 +21,13 @@ Bu proje, ASP.NET MVC mimarisi kullanılarak geliştirilmiş, dinamik içerik y�
 
 ## 📷 Ekran Görüntüleri
 
-| Site Görünümü | Admin Paneli |
-
 **Site Login Sayfası:**
 ![Site Login Sayfası](login-paneli.jpg)
 
 **Site Görünümü:**
 ![Site Görünümü](giris-ekrani.png)
 
+**İletişim Sayfası:**
 ![İletişim Sayfası](iletisim-ekrani.png)
 
 **Admin Paneli:**
