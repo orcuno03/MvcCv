@@ -23,6 +23,17 @@ Bu proje, ASP.NET MVC mimarisi kullanılarak geliştirilmiş, dinamik içerik y�
 
 | Site Görünümü | Admin Paneli |
 
+**Site Login Sayfası:**
+![Site Login Sayfası](login-paneli.jpg)
+
+**Site Görünümü:**
+![Site Görünümü](giris-ekrani.png)
+
+![İletişim Sayfası](iletisim-ekrani.png)
+
+**Admin Paneli:**
+![Admin Paneli](admin-paneli.png)
+
 ## ⚙️ Kurulum (Nasıl Çalıştırılır?)
 
 1.  Projeyi bilgisayarınıza klonlayın:
